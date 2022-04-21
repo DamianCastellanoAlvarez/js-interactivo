@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.text-center{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: cadetblue;    
+}
+
+.texto{
+    margin-left: 50px;
+    color: darksalmon;
+}
+
+.promedio{
+    margin-left: 50px;
+    color: darksalmon;
+}
+
